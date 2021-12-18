@@ -1,3 +1,2 @@
 # główny kod gry
-#
 
