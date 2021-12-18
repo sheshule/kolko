@@ -1,0 +1,2 @@
+# kolko
+kółko i krzyżyk
